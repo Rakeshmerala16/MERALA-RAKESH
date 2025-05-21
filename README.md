@@ -28,5 +28,5 @@ Each problem is solved in a separate `.java` file.
 Each file can be compiled and run using a Java compiler.
 
 Example:
-**javac Program_1.java
-java Program_1**
+**javac Program_1.java**
+**java Program_1**
